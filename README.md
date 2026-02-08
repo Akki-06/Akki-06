@@ -51,7 +51,7 @@ I focus on building strong computer science foundations and applying them throug
 <a href="https://instagram.com/ix.akki" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
-<a href="https://www.youtube.com/c/thirdeyepath" target="_blank">
+<a href="https://www.youtube.com/@thirdeyepath" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
 </a>
 </p>
@@ -99,7 +99,3 @@ I focus on building strong computer science foundations and applying them throug
 </p>
 
 ---
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akki-06&layout=compact&locale=en" alt="Top Languages" />
-</p>
