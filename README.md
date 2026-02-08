@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akki-06&label=Profile%20views&color=0e75b6&style=flat" alt="akki-06" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akki-06" alt="akki-06" /></a> </p>
-
 - 🔭 I’m currently working on [Timetrix - A Constraint Aware Automated Time-Table Generator](https://github.com/Akki-06/timetrix)
 
 - 🌱 I’m currently learning **React, Django, Data Structures in Java, REST APIs**
